@@ -3,7 +3,8 @@
 # for Azure VM SKU's available in WestEurope, from the public preview API (202202)
 # https://docs.microsoft.com/nl-nl/rest/api/cost-management/retail-prices/azure-retail-prices
 # The price info is added to a list of all available VM SKu's for westeurope.
-#
+# 
+# Note: To run this script you must jhave a valid Azure account and be logged in via powershell.
 # Usage: ./Azure_VM_prices.ps1 > AzureVMPrices.csv
 #
 #############################
